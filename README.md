@@ -3,7 +3,7 @@
 Created this beautiful lock screen at the HashCode Hackathon 2014 conducted at PESIT college on 8th and 9th of November 2014.
 It was a 24 hour hackathon full of excitement and inovative engineers hacking their way to glory.
 
-## Screenshots:computer::
+## App Screenshots :computer: :
 
 ### Grey indicates that you are setting the pattern.![Screenshot](https://github.com/DollarAkshay/Hexagonal-Lock-Screen/blob/master/Screenshots/LockScreen_3.png "Green Theme")
 <br>
