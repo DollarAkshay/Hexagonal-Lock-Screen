@@ -13,6 +13,8 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Akshay L Aradhya
+ * https://github.com/DollarAkshay/Hexagonal-Lock-Screen
+ * 
  */
 public class Lock_Screen extends javax.swing.JFrame {
 
