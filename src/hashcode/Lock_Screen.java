@@ -140,7 +140,7 @@ public class Lock_Screen extends javax.swing.JFrame {
 
         Wallpaper.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Yellow_Wallpaper_1.png"))); // NOI18N
         Screen.add(Wallpaper);
-        Wallpaper.setBounds(0, 0, 450, 750);
+        Wallpaper.setBounds(0, 0, 0, 750);
 
         getContentPane().add(Screen, new org.netbeans.lib.awtextra.AbsoluteConstraints(58, 32, -1, -1));
 
