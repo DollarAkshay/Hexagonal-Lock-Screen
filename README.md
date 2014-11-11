@@ -1,4 +1,4 @@
-Hexagonal Lock Screen
+Hexagonal Lock Screen ![Alt text](https://github.com/DollarAkshay/Hexagonal-Lock-Screen/blob/master/Screenshots/Icon.png =50x50)
 =====================
 
 Created this beautiful lock screen at the HashCode Hackathon 2014 conducted at PESIT college on 8th and 9th of November 2014.
