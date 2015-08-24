@@ -56,7 +56,7 @@ public class DrawPattern extends JPanel{
         }
         else{
             h = new Hexagon(x,y,s);
-            g2d.setColor(new Color(55,55,55,150));
+            g2d.setColor(new Color(75,75,75,150));
         }
         
         hex_x[n_hex]= x + s;

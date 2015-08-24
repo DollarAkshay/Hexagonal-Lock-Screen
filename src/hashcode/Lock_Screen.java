@@ -140,7 +140,7 @@ public class Lock_Screen extends javax.swing.JFrame {
 
         Wallpaper.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Yellow_Wallpaper_1.png"))); // NOI18N
         Screen.add(Wallpaper);
-        Wallpaper.setBounds(0, 0, 0, 750);
+        Wallpaper.setBounds(0, 0, 450, 750);
 
         getContentPane().add(Screen, new org.netbeans.lib.awtextra.AbsoluteConstraints(58, 32, -1, -1));
 
@@ -156,6 +156,7 @@ public class Lock_Screen extends javax.swing.JFrame {
 
         Pattern_Set.setBackground(new java.awt.Color(0, 102, 255));
         Pattern_Set.setFont(new java.awt.Font("Hobo Std", 0, 24)); // NOI18N
+        Pattern_Set.setSelected(true);
         Pattern_Set.setText("Set Pattern");
         Pattern_Set.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
