@@ -3,6 +3,10 @@
 Created this beautiful lock screen at the HashCode Hackathon 2014 conducted at PESIT college on 8th and 9th of November 2014.
 It was a 24 hour hackathon full of excitement and inovative engineers hacking their way to glory.
 
+## YouTube Video :
+[![IMAGE ALT TEXT HERE](https://github.com/DollarAkshay/Hexagonal-Lock-Screen/blob/master/Screenshots/YouTube%20Thumbnail.png)](https://www.youtube.com/watch?v=6hf1UBCxJ7Y)
+
+
 ## App Screenshots :computer: :
 
 ### Grey indicates that you are setting the pattern.![Screenshot](https://github.com/DollarAkshay/Hexagonal-Lock-Screen/blob/master/Screenshots/LockScreen_3.png "Green Theme")
